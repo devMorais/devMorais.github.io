@@ -8,6 +8,12 @@
   align-items: center;
 }
 
+.conteudo {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+
 .introducao h1 {
   font-size: 4.5rem;
   line-height: 1.125;
