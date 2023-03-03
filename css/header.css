@@ -25,11 +25,16 @@
 @media (max-width: 800px) {
   .header {
     flex-direction: column;
-    gap: 40px;
-    padding: 20px;
+    gap: 25px;
+    padding: 25px;
   }
   .header a {
-    background: #f5f5f5;
+    
     border-radius: 4px;
   }
+}
+
+#arredondada {
+  border-radius: 50%;
+ 
 }
