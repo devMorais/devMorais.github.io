@@ -68,3 +68,9 @@
     display: none;
   }
 }
+
+
+.box-shadow {
+  box-shadow: 0 2px 4px 0 rgba(7,6,0,.15),
+              0 4px 8px 0 rgba(1,5,5,.15);
+}
